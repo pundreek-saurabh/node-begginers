@@ -1,0 +1,18 @@
+{
+  "name": "pundreek",
+  "version": "1.0.0",
+  "description": "node_crash_course",
+  "main": "check.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index" 
+  },
+  "author": "Pundreek Saurabh Srivastava",
+  "license": "ISC"
+}
